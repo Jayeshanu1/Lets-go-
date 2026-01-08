@@ -8,4 +8,9 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+tongoh is going great!
+
+Commit: steps
+1. stage a change(s)
+2. add a to message and commit and change 
+3. push the commit to github
