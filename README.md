@@ -13,4 +13,7 @@ tongoh is going great!
 Commit: steps
 1. stage a change(s)
 2. add a to message and commit and change 
-3. push the commit to github
+3. push the commit to gith
+
+this is awesome
+sddfdf
